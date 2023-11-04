@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_activity/static/css/main.8265aab7.css",
-    "main.js": "/react_activity/static/js/main.560bff17.js",
+    "main.js": "/react_activity/static/js/main.d83c4eca.js",
     "static/media/Naruto.gif": "/react_activity/static/media/Naruto.f94f9c3ef8e9f0804fe3.gif",
     "static/media/animeExpo.jpg": "/react_activity/static/media/animeExpo.4c55e2d4a9a193f5ea7f.jpg",
     "static/media/mangaPage.jpg": "/react_activity/static/media/mangaPage.e6630b95b8291a2f1ac9.jpg",
@@ -22,10 +22,10 @@
     "static/media/chainsawMan.jpg": "/react_activity/static/media/chainsawMan.bd78c62deb49255b8785.jpg",
     "index.html": "/react_activity/index.html",
     "main.8265aab7.css.map": "/react_activity/static/css/main.8265aab7.css.map",
-    "main.560bff17.js.map": "/react_activity/static/js/main.560bff17.js.map"
+    "main.d83c4eca.js.map": "/react_activity/static/js/main.d83c4eca.js.map"
   },
   "entrypoints": [
     "static/css/main.8265aab7.css",
-    "static/js/main.560bff17.js"
+    "static/js/main.d83c4eca.js"
   ]
 }
